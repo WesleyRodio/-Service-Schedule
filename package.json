@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "enmap": "^5.8.7",
+    "venom-bot": "^4.0.4"
+  }
+}
