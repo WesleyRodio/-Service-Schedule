@@ -71,6 +71,7 @@ Após a conclussão de tudo pude iniciar o planejamento do que iria ser meu bot.
 Menu pronto, e biblioteca baixada, falta criar as mensagens diretas e escolher meus serviços. 
   
 Decidi escolher barbearia, cinema e restaurante, defini os horários e dias de serviço da barbearia e fiz a mensagem direta informando todas as informações de seu agendamento, depois disso só foi repitir o mesmo processo com os demais serviços.
+  
 <a target="_blank" href="https://github.com/WesleyRodio/-Service-Schedule" target="_blank"><img title="printscreen" height="200" width="375" src="https://cdn.discordapp.com/attachments/923781750759522354/932718067287486484/unknown.png"></a>
   
 Criei uma "Aba de cancelamento" e uma de "Mais opções", coloquei a localização dos ambientes de trabalho e os contatos dos atendentes.
